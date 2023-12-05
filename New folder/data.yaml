@@ -1,0 +1,31 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 23
+
+names:
+  [
+    "Waste1",
+    "Waste2",
+    "Waste3",
+    "Waste4",
+    "Waste5",
+    "Waste6",
+    "Waste7",
+    "Waste8",
+    "Waste9",
+    "Waste10",
+    "Waste11",
+    "Waste12",
+    "Waste13",
+    "Waste14",
+    "Waste15",
+    "Waste16",
+    "Waste17",
+    "Waste18",
+    "Waste19",
+    "Waste20",
+    "Waste21",
+    "Waste22",
+    "Waste23",
+  ]
